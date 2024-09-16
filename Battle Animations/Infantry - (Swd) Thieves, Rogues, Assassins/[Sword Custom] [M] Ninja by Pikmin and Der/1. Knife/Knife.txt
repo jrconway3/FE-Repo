@@ -1,11 +1,11 @@
 #######################################################
-#01 lorm_sp1 Lord Lance
+#10 Knife Hero Item
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
 /// - Mode 1               #Melee Animation
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Knife_000.png
 4 p- Knife_001.png
 5 p- Knife_002.png
@@ -17,7 +17,7 @@ C25                               #Play wing flap SFE
 3 p- Knife_007.png
 C23                               #Play shorter sword swinging SFE
 3 p- Knife_008.png
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 3 p- Knife_009.png
 C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
 C1A                               #Normal hit
@@ -51,8 +51,8 @@ C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 3               #Melee Critical Animation
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Knife_000.png
 4 p- Knife_031.png
 3 p- Knife_032.png
@@ -101,7 +101,7 @@ C20                               #Play hit SFE (sounds like Knight Lord with Du
 2 p- Knife_037.png
 C22                               #Play short sword swinging SFE
 3 p- Knife_045.png
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 3 p- Knife_046.png
 C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
 C08                               #Critical hit
@@ -149,8 +149,8 @@ C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 5               #Ranged Animation 
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Knife_000.png
 4 p- Knife_072.png
 3 p- Knife_073.png
@@ -179,8 +179,8 @@ C06                               #Begin opponent's turn after hit.next code 0D.
 C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - Mode 6               #Ranged Critical Animation
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Knife_000.png
 2 p- Knife_031.png
 15 p- Knife_032.png
@@ -262,8 +262,8 @@ C01                               #NOP
 C01                               #NOP
 ~~~
 /// - Mode 12               #Attack Missed Animation
-C03                               #Start attack animation; should be followed by 0x07
-C07                               #Start attack animation; should be preceeded by 0x03
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Knife_000.png
 4 p- Knife_001.png
 5 p- Knife_002.png
@@ -275,7 +275,7 @@ C25                               #Play wing flap SFE
 3 p- Knife_007.png
 C23                               #Play shorter sword swinging SFE
 3 p- Knife_008.png
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit; Magic only.
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 3 p- Knife_115.png
 3 p- Knife_116.png
 4 p- Knife_117.png

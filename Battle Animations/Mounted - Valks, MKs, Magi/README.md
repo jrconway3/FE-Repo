@@ -220,6 +220,14 @@
 
 
 
+## [\[Troubadour-Reskin\] \[F\] L'Arachel by RedBean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20L'Arachel%20by%20RedBean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20L'Arachel%20by%20RedBean) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20L'Arachel%20by%20RedBean/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20L'Arachel%20by%20RedBean/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[Troubadour-Reskin\] \[F\] Long Hair by GoofyfanG56](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20GoofyfanG56) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20GoofyfanG56) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20GoofyfanG56/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20GoofyfanG56/8.%20Unarmed/Unarmed.gif"/> |
@@ -328,7 +336,7 @@
 
 ## [\[Valkyrie-Base\] \[F\] Vanilla +Alt by seergiioo](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Base%5D%20%5BF%5D%20Vanilla%20%2BAlt%20by%20seergiioo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Base%5D%20%5BF%5D%20Vanilla%20%2BAlt%20by%20seergiioo) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Sword (Dagger)</b><br/><img alt="Sword (Dagger)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Base%5D%20%5BF%5D%20Vanilla%20+Alt%20by%20seergiioo/1.%20Sword%20(Dagger)/Sword.gif"/> | <b>Sword (Magic Dagger)</b><br/><img alt="Sword (Magic Dagger)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Base%5D%20%5BF%5D%20Vanilla%20+Alt%20by%20seergiioo/1.%20Sword%20(Magic%20Dagger)/Sword.gif"/> | <b>Handaxe (Daggerang!!!)</b><br/><img alt="Handaxe (Daggerang!!!)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Base%5D%20%5BF%5D%20Vanilla%20+Alt%20by%20seergiioo/4.%20Handaxe%20(Daggerang!!!)/Handaxe.gif"/> |
+| <b>Knife</b><br/><img alt="Knife" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Base%5D%20%5BF%5D%20Vanilla%20+Alt%20by%20seergiioo/1.%20Knife/Knife.gif"/> | <b>Knife (Magic)</b><br/><img alt="Knife (Magic)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Base%5D%20%5BF%5D%20Vanilla%20+Alt%20by%20seergiioo/1.%20Knife%20(Magic)/Knife.gif"/> | <b>Knife (Daggerang!!! Handaxe)</b><br/><img alt="Knife (Daggerang!!! Handaxe)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Base%5D%20%5BF%5D%20Vanilla%20+Alt%20by%20seergiioo/4.%20Knife%20(Daggerang!!!%20Handaxe)/Knife.gif"/> |
 | :---: | :---: | :---: |
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Base%5D%20%5BF%5D%20Vanilla%20+Alt%20by%20seergiioo/6.%20Magic/Magic.gif"/> | <b>Magic (Staff)</b><br/><img alt="Magic (Staff)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Base%5D%20%5BF%5D%20Vanilla%20+Alt%20by%20seergiioo/6.%20Magic%20(Staff)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Base%5D%20%5BF%5D%20Vanilla%20+Alt%20by%20seergiioo/7.%20Staff/Staff.gif"/> |
 
@@ -451,6 +459,14 @@
 ## [\[Valkyrie-Reskin\] \[M\] Templar by GabrielKnight](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20%5BM%5D%20Templar%20by%20GabrielKnight) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20%5BM%5D%20Templar%20by%20GabrielKnight) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20%5BM%5D%20Templar%20by%20GabrielKnight/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20%5BM%5D%20Templar%20by%20GabrielKnight/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
+
+
+
+
+## [\[Valkyrie-Variant\] \[F\] L'Arachel by RedBean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Variant%5D%20%5BF%5D%20L'Arachel%20by%20RedBean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Variant%5D%20%5BF%5D%20L'Arachel%20by%20RedBean) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Variant%5D%20%5BF%5D%20L'Arachel%20by%20RedBean/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Variant%5D%20%5BF%5D%20L'Arachel%20by%20RedBean/7.%20Staff/Staff.gif"/> |
 | :---: | :---: |
 
 

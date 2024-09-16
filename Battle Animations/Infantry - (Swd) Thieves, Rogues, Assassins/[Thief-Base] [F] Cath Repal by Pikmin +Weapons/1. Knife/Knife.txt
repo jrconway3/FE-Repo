@@ -1,29 +1,29 @@
 #######################################################
-#02 cath_knife Noble 道具
+#10 Knife Hero Item
 #
-#FEditorAdvにインポートする時には各行の#以降を削除してください。
+#When importing to FEditorAdv delete # and after each line.
 #######################################################
-/// - Mode 1               #至近攻撃のヒット時のモーション
-C03                               #攻撃モーション開始 この後に07が来る
-C07                               #攻撃モーション開始 この前に03が来る
+/// - Mode 1               #Melee Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Knife_000.png
 4 p- Knife_001.png
 4 p- Knife_002.png
 6 p- Knife_003.png
 4 p- Knife_004.png
-C22                               #リンロードの剣を振る音
-C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+C22                               #Play short sword swinging SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 2 p- Knife_005.png
 2 p- Knife_006.png
-C1A                               #ノーマルヒットのエフェクト
-C1F                               #クリティカルの効果音 ずどーん
+C1A                               #Normal hit
+C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
 1 p- Knife_007.png
 C01                               #NOP
 8 p- Knife_008.png
-C23                               #剣を振る音　小さい
+C23                               #Play shorter sword swinging SFE
 3 p- Knife_009.png
 8 p- Knife_010.png
-C34                               #足音の再生
+C34                               #Play heavy stepping SFE
 4 p- Knife_011.png
 4 p- Knife_012.png
 4 p- Knife_013.png
@@ -31,18 +31,18 @@ C34                               #足音の再生
 3 p- Knife_015.png
 3 p- Knife_016.png
 4 p- Knife_017.png
-C34                               #足音の再生
+C34                               #Play heavy stepping SFE
 4 p- Knife_018.png
 7 p- Knife_019.png
 1 p- Knife_020.png
-C06                               #攻撃アニメ終了 後に0Dが来る
+C06                               #Begin opponent's turn after hit.next code 0D.
 3 p- Knife_020.png
 3 p- Knife_021.png
-C0D                               #攻撃アニメ終了 前に06が来る
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 3               #至近攻撃必殺時のモーション
-C03                               #攻撃モーション開始 この後に07が来る
-C07                               #攻撃モーション開始 この前に03が来る
+/// - Mode 3               #Melee Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Knife_000.png
 3 p- Knife_022.png
 5 p- Knife_023.png
@@ -50,27 +50,27 @@ C07                               #攻撃モーション開始 この前に03が
 4 p- Knife_025.png
 6 p- Knife_026.png
 7 p- Knife_027.png
-C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
-C22                               #リンロードの剣を振る音
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C22                               #Play short sword swinging SFE
 2 p- Knife_028.png
-C20                               #クリティカルの効果音 ずどーん
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
 4 p- Knife_029.png
 4 p- Knife_009.png
 5 p- Knife_010.png
-C20                               #クリティカルの効果音 ずどーん
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
 4 p- Knife_029.png
 4 p- Knife_009.png
 5 p- Knife_010.png
 2 p- Knife_006.png
-C20                               #クリティカルの効果音 ずどーん
-C09                               #クリティカルヒット
+C20                               #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+C09                               #Critical hit
 1 p- Knife_007.png
 C01                               #NOP
 8 p- Knife_030.png
-C23                               #剣を振る音　小さい
+C23                               #Play shorter sword swinging SFE
 3 p- Knife_009.png
 8 p- Knife_010.png
-C34                               #足音の再生
+C34                               #Play heavy stepping SFE
 4 p- Knife_011.png
 4 p- Knife_012.png
 4 p- Knife_013.png
@@ -78,25 +78,25 @@ C34                               #足音の再生
 3 p- Knife_015.png
 3 p- Knife_016.png
 4 p- Knife_017.png
-C34                               #足音の再生
+C34                               #Play heavy stepping SFE
 4 p- Knife_018.png
 7 p- Knife_019.png
 1 p- Knife_020.png
-C06                               #攻撃アニメ終了 後に0Dが来る
+C06                               #Begin opponent's turn after hit.next code 0D.
 3 p- Knife_020.png
 3 p- Knife_021.png
-C0D                               #攻撃アニメ終了 前に06が来る
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 5               #間接攻撃時のモーション
-C03                               #攻撃モーション開始 この後に07が来る
-C07                               #攻撃モーション開始 この前に03が来る
+/// - Mode 5               #Ranged Animation 
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Knife_000.png
 2 p- Knife_022.png
 3 p- Knife_031.png
 8 p- Knife_032.png
 3 p- Knife_033.png
 2 p- Knife_034.png
-C05                               #魔法の呼び出し
+C05                               #Call spell associated with equipped weapon
 3 p- Knife_035.png
 C01                               #NOP
 3 p- Knife_036.png
@@ -105,13 +105,13 @@ C01                               #NOP
 5 p- Knife_003.png
 5 p- Knife_002.png
 5 p- Knife_001.png
-C06                               #攻撃アニメ終了 後に0Dが来る
+C06                               #Begin opponent's turn after hit.next code 0D.
 3 p- Knife_022.png
-C0D                               #攻撃アニメ終了 前に06が来る
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 6               #間接攻撃必殺時のモーション
-C03                               #攻撃モーション開始 この後に07が来る
-C07                               #攻撃モーション開始 この前に03が来る
+/// - Mode 6               #Ranged Critical Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Knife_000.png
 2 p- Knife_022.png
 2 p- Knife_038.png
@@ -126,7 +126,7 @@ C07                               #攻撃モーション開始 この前に03が
 2 p- Knife_042.png
 2 p- Knife_033.png
 2 p- Knife_034.png
-C05                               #魔法の呼び出し
+C05                               #Call spell associated with equipped weapon
 3 p- Knife_035.png
 C01                               #NOP
 3 p- Knife_036.png
@@ -135,61 +135,61 @@ C01                               #NOP
 5 p- Knife_003.png
 5 p- Knife_002.png
 5 p- Knife_001.png
-C06                               #攻撃アニメ終了 後に0Dが来る
+C06                               #Begin opponent's turn after hit.next code 0D.
 3 p- Knife_022.png
-C0D                               #攻撃アニメ終了 前に06が来る
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 7               #被至近攻撃回避時のモーション
-C02                               #回避モーションの始め
+/// - Mode 7               #Dodge Melee Attack
+C02                               #Start of dodge
 1 p- Knife_000.png
-C0E                               #回避フレームの開始。棒立ちフレームの後にこのコマンドを入れてください。
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
 3 p- Knife_043.png
 1 p- Knife_044.png
 C01                               #NOP
 3 p- Knife_043.png
-C0D                               #攻撃アニメ終了 前に06が来る
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 8               #被間接攻撃回避時のモーション
-C02                               #回避モーションの始め
+/// - Mode 8               #Dodge Ranged Attack
+C02                               #Start of dodge
 1 p- Knife_000.png
-C0E                               #回避フレームの開始。棒立ちフレームの後にこのコマンドを入れてください。
+C0E                               #Start of dodging frames (should go after standing frame and before dodging animation)
 3 p- Knife_043.png
 1 p- Knife_044.png
 C01                               #NOP
 3 p- Knife_043.png
-C0D                               #攻撃アニメ終了 前に06が来る
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
-/// - Mode 9               #至近時棒立ちモーション
+/// - Mode 9               #Equiped with Melee Weapon
 1 p- Knife_000.png
 C01                               #NOP
 ~~~
-/// - Mode 10               #棒立ちモーション
+/// - Mode 10               #Standing motions
 1 p- Knife_000.png
 C01                               #NOP
 ~~~
-/// - Mode 11               #間接時棒立ちモーション
+/// - Mode 11               #Equiped with Ranged weapon
 1 p- Knife_000.png
 C01                               #NOP
 ~~~
-/// - Mode 12               #攻撃ミス時のモーション
-C03                               #攻撃モーション開始 この後に07が来る
-C07                               #攻撃モーション開始 この前に03が来る
+/// - Mode 12               #Attack Missed Animation
+C03                               #Start attack animation; need 07 right after this.
+C07                               #Start attack animation; need 03 right before this.
 1 p- Knife_000.png
 1 p- Knife_001.png
 4 p- Knife_002.png
 4 p- Knife_003.png
 6 p- Knife_004.png
 4 p- Knife_005.png
-C22                               #リンロードの剣を振る音
-C04                               #攻撃が命中した時に、HPを減らす準備をする。命中後に立ちモーションへ戻す必要あり。
+C22                               #Play short sword swinging SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 2 p- Knife_006.png
 1 p- Knife_007.png
 8 p- Knife_008.png
 9 p- Knife_009.png
-C23                               #剣を振る音　小さい
+C23                               #Play shorter sword swinging SFE
 3 p- Knife_010.png
 8 p- Knife_011.png
-C34                               #足音の再生
+C34                               #Play heavy stepping SFE
 4 p- Knife_012.png
 4 p- Knife_013.png
 4 p- Knife_014.png
@@ -198,13 +198,13 @@ C01                               #NOP
 3 p- Knife_016.png
 3 p- Knife_017.png
 4 p- Knife_018.png
-C34                               #足音の再生
+C34                               #Play heavy stepping SFE
 4 p- Knife_019.png
 7 p- Knife_020.png
 1 p- Knife_020.png
-C06                               #攻撃アニメ終了 後に0Dが来る
+C06                               #Begin opponent's turn after hit.next code 0D.
 3 p- Knife_021.png
 3 p- Knife_000.png
-C0D                               #攻撃アニメ終了 前に06が来る
+C0D                               #End of dodge animation. preceeded by 0x06
 ~~~
 /// - End of animation
