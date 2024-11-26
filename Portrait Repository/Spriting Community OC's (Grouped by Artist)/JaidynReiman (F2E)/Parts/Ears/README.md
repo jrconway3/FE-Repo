@@ -12,7 +12,9 @@ The short elven ears resemble many variants of FE "dragon" type ears, or perhaps
 
 #### Queiza Ears
 
-"Queiza" is essentially a water elf-like race of mine. I don't expect anyone else to use these, but the option is available. The filled gap is intended to look like a webbing between the curves of the ear but I haven't exactly gotten down the design well enough yet.
+"Queiza" is essentially a water elf-like race of mine. I don't expect anyone else to use these, but the option is available. The filled gap (which shares the same palette as the hair color) is intended to look like a webbing between the curves of the ear, but I haven't exactly gotten down the design well enough yet.
+
+I drew an alternate version to try and more closely resemble a narrow version of a long fin, which I labeled as "Queiza Fin Ear".
 
 #### Lykon Ears
 
