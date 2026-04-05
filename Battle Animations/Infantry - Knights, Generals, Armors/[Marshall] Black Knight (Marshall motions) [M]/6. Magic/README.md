@@ -1,4 +1,4 @@
-# [\[Marshall\] FE10-Style \[U\] by Nuramon](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20Knights%2C%20Generals%2C%20Armors%2F%5BMarshall%5D%20FE10-Style%20%5BU%5D%20by%20Nuramon%2F6.%20Magic) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+# [\[Marshall\] Black Knight \(Marshall motions\) \[M\]](./) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20Knights%2C%20Generals%2C%20Armors%2F%5BMarshall%5D%20Black%20Knight%20(Marshall%20motions)%20%5BM%5D%2F6.%20Magic) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 ## Magic
 
@@ -10,8 +10,8 @@
 
 F2U/F2E
 
-Stills and animations by Nuramon.
+Animation by Nuramon.
 
-Big Handaxe animation by UltraFenix.
+Alondite Wave by Sax Marine.
 
-Magic and Staff animation by UltraFenix.
+Black Knight edit by Seliost1.
