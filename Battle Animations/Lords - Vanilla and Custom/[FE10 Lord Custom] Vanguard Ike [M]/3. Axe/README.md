@@ -17,3 +17,5 @@ Animation by xxx的戏剧 (xxx Drama).
 Unarmed by Seliost1.
 
 Removal of the whtie pixel in face by Seliost1.
+
+1. Sword (Ragnel alt Aura) by Seliost1

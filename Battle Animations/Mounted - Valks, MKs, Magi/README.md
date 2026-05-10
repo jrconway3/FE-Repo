@@ -286,6 +286,14 @@
 
 
 
+## [\[Troubadour-Reskin\] Deacon Repalette \[M\] by UltraFenix](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Deacon%20Repalette%20%5BM%5D%20by%20UltraFenix) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Deacon%20Repalette%20%5BM%5D%20by%20UltraFenix) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Deacon%20Repalette%20%5BM%5D%20by%20UltraFenix/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Deacon%20Repalette%20%5BM%5D%20by%20UltraFenix/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Deacon%20Repalette%20%5BM%5D%20by%20UltraFenix/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ## [\[Troubadour-Reskin\] Deacon v1 \[M\] by GabrielKnight](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Deacon%20v1%20%5BM%5D%20by%20GabrielKnight) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Deacon%20v1%20%5BM%5D%20by%20GabrielKnight) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Deacon%20v1%20%5BM%5D%20by%20GabrielKnight/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Deacon%20v1%20%5BM%5D%20by%20GabrielKnight/8.%20Unarmed/Unarmed.gif"/> |
@@ -385,10 +393,26 @@
 
 
 
+## [\[Troubadour-Reskin\] Ponytail Repal \[F\] by UltraFenix](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Ponytail%20Repal%20%5BF%5D%20by%20UltraFenix) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Ponytail%20Repal%20%5BF%5D%20by%20UltraFenix) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Ponytail%20Repal%20%5BF%5D%20by%20UltraFenix/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Ponytail%20Repal%20%5BF%5D%20by%20UltraFenix/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Ponytail%20Repal%20%5BF%5D%20by%20UltraFenix/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ## [\[Troubadour-Reskin\] Short Hair Repal \[F\] by BatimaTheBat](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Short%20Hair%20Repal%20%5BF%5D%20by%20BatimaTheBat) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Short%20Hair%20Repal%20%5BF%5D%20by%20BatimaTheBat) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Short%20Hair%20Repal%20%5BF%5D%20by%20BatimaTheBat/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Short%20Hair%20Repal%20%5BF%5D%20by%20BatimaTheBat/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
+
+
+
+
+## [\[Troubadour-Reskin\] Short Hair Repal \[F\] by UltraFenix](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Short%20Hair%20Repal%20%5BF%5D%20by%20UltraFenix) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Short%20Hair%20Repal%20%5BF%5D%20by%20UltraFenix) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Short%20Hair%20Repal%20%5BF%5D%20by%20UltraFenix/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Short%20Hair%20Repal%20%5BF%5D%20by%20UltraFenix/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20Short%20Hair%20Repal%20%5BF%5D%20by%20UltraFenix/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -438,6 +462,22 @@
 | <b>Knife</b><br/><img alt="Knife" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Base%5D%20Vanilla%20+Alt%20%5BF%5D/1.%20Knife/Knife.gif"/> | <b>Knife (Magic)</b><br/><img alt="Knife (Magic)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Base%5D%20Vanilla%20+Alt%20%5BF%5D/1.%20Knife%20(Magic)/Knife.gif"/> | <b>Knife (Daggerang!!! Handaxe)</b><br/><img alt="Knife (Daggerang!!! Handaxe)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Base%5D%20Vanilla%20+Alt%20%5BF%5D/4.%20Knife%20(Daggerang!!!%20Handaxe)/Knife.gif"/> |
 | :---: | :---: | :---: |
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Base%5D%20Vanilla%20+Alt%20%5BF%5D/6.%20Magic/Magic.gif"/> | <b>Magic (Staff)</b><br/><img alt="Magic (Staff)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Base%5D%20Vanilla%20+Alt%20%5BF%5D/6.%20Magic%20(Staff)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Base%5D%20Vanilla%20+Alt%20%5BF%5D/7.%20Staff/Staff.gif"/> |
+
+
+
+
+## [\[Valkyrie-Reskin\] Ascended \[F\] by UltraFenix](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20Ascended%20%5BF%5D%20by%20UltraFenix) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20Ascended%20%5BF%5D%20by%20UltraFenix) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20Ascended%20%5BF%5D%20by%20UltraFenix/1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20Ascended%20%5BF%5D%20by%20UltraFenix/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20Ascended%20%5BF%5D%20by%20UltraFenix/7.%20Staff/Staff.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[Valkyrie-Reskin\] Ascended \[M\] by UltraFenix](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20Ascended%20%5BM%5D%20by%20UltraFenix) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20Ascended%20%5BM%5D%20by%20UltraFenix) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20Ascended%20%5BM%5D%20by%20UltraFenix/1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20Ascended%20%5BM%5D%20by%20UltraFenix/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20Ascended%20%5BM%5D%20by%20UltraFenix/7.%20Staff/Staff.gif"/> |
+| :---: | :---: | :---: |
 
 
 

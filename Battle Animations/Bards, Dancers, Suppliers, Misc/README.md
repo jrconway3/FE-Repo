@@ -357,6 +357,14 @@
 
 
 
+## [\[Misc\] Soldier Training Dummy \[U\] by UltraFenix](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Soldier%20Training%20Dummy%20%5BU%5D%20by%20UltraFenix) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Soldier%20Training%20Dummy%20%5BU%5D%20by%20UltraFenix) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20Soldier%20Training%20Dummy%20%5BU%5D%20by%20UltraFenix/8.%20Unarmed/Unarmed.gif"/> |
+| :---: |
+
+
+
+
 ## [\[Misc\] \[M\] President Chrom by Dejais](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20%5BM%5D%20President%20Chrom%20by%20Dejais) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20%5BM%5D%20President%20Chrom%20by%20Dejais) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Bards,%20Dancers,%20Suppliers,%20Misc/%5BMisc%5D%20%5BM%5D%20President%20Chrom%20by%20Dejais/8.%20Monster/Monster.gif"/> |

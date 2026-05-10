@@ -77,6 +77,14 @@
 
 
 
+## [\[Cavalier-Variant\] \[F\] Fox by UltraFenix](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BF%5D%20Fox%20by%20UltraFenix) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BF%5D%20Fox%20by%20UltraFenix) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BF%5D%20Fox%20by%20UltraFenix/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BF%5D%20Fox%20by%20UltraFenix/4.%20Handaxe/Handaxe.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BF%5D%20Fox%20by%20UltraFenix/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ## [\[Cavalier-Variant\] \[F\] Generic by SALVAGED](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BF%5D%20Generic%20by%20SALVAGED) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BF%5D%20Generic%20by%20SALVAGED) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BF%5D%20Generic%20by%20SALVAGED/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BF%5D%20Generic%20by%20SALVAGED/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BCavalier-Variant%5D%20%5BF%5D%20Generic%20by%20SALVAGED/3.%20Axe/Axe.gif"/> |
@@ -430,6 +438,14 @@
 
 
 
+## [\[Nomad Trooper Reskin\] Elf Linda \[F\] by UltraFenix](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BNomad%20Trooper%20Reskin%5D%20Elf%20Linda%20%5BF%5D%20by%20UltraFenix) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BNomad%20Trooper%20Reskin%5D%20Elf%20Linda%20%5BF%5D%20by%20UltraFenix) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BNomad%20Trooper%20Reskin%5D%20Elf%20Linda%20%5BF%5D%20by%20UltraFenix/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BNomad%20Trooper%20Reskin%5D%20Elf%20Linda%20%5BF%5D%20by%20UltraFenix/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BNomad%20Trooper%20Reskin%5D%20Elf%20Linda%20%5BF%5D%20by%20UltraFenix/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ## [\[Nomad Trooper Reskin\] \[F\] Non-Sacaen](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BNomad%20Trooper%20Reskin%5D%20%5BF%5D%20Non-Sacaen) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BNomad%20Trooper%20Reskin%5D%20%5BF%5D%20Non-Sacaen) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BNomad%20Trooper%20Reskin%5D%20%5BF%5D%20Non-Sacaen/1.%20Sword/Sword.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BNomad%20Trooper%20Reskin%5D%20%5BF%5D%20Non-Sacaen/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BNomad%20Trooper%20Reskin%5D%20%5BF%5D%20Non-Sacaen/8.%20Unarmed/Unarmed.gif"/> |
@@ -506,6 +522,14 @@
 
 | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BNomad-Base%5D%20%5BM%5D%20Vanilla%20Repal/5.%20Bow/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BNomad-Base%5D%20%5BM%5D%20Vanilla%20Repal/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
+
+
+
+
+## [\[Nomad-Reskin\] Elf Linda \[F\] by UltraFenix](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BNomad-Reskin%5D%20Elf%20Linda%20%5BF%5D%20by%20UltraFenix) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BNomad-Reskin%5D%20Elf%20Linda%20%5BF%5D%20by%20UltraFenix) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BNomad-Reskin%5D%20Elf%20Linda%20%5BF%5D%20by%20UltraFenix/5.%20Bow/Bow.gif"/> |
+| :---: |
 
 
 
@@ -669,9 +693,9 @@
 
 ## [\[Paladin-Reskin\] \[F\] Isadora by Greentea](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Reskin%5D%20%5BF%5D%20Isadora%20by%20Greentea) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Reskin%5D%20%5BF%5D%20Isadora%20by%20Greentea) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Reskin%5D%20%5BF%5D%20Isadora%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Reskin%5D%20%5BF%5D%20Isadora%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Reskin%5D%20%5BF%5D%20Isadora%20by%20Greentea/7.%20Staff/Staff.gif"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Reskin%5D%20%5BF%5D%20Isadora%20by%20Greentea/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Reskin%5D%20%5BF%5D%20Isadora%20by%20Greentea/2.%20Lance/Lance.gif"/> | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Reskin%5D%20%5BF%5D%20Isadora%20by%20Greentea/3.%20Axe/Axe.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Reskin%5D%20%5BF%5D%20Isadora%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Reskin%5D%20%5BF%5D%20Isadora%20by%20Greentea/4.%20Handaxe/Handaxe.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Reskin%5D%20%5BF%5D%20Isadora%20by%20Greentea/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BPaladin-Reskin%5D%20%5BF%5D%20Isadora%20by%20Greentea/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -891,9 +915,9 @@
 
 ## [\[Ranger-Custom\] \[F\] Bernadetta by Redbean](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BRanger-Custom%5D%20%5BF%5D%20Bernadetta%20by%20Redbean) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BRanger-Custom%5D%20%5BF%5D%20Bernadetta%20by%20Redbean) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
-| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BRanger-Custom%5D%20%5BF%5D%20Bernadetta%20by%20Redbean/2.%20Lance/Lance.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BRanger-Custom%5D%20%5BF%5D%20Bernadetta%20by%20Redbean/5.%20Bow/Bow.gif"/> | <b>Bow (Alt)</b><br/><img alt="Bow (Alt)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BRanger-Custom%5D%20%5BF%5D%20Bernadetta%20by%20Redbean/5.%20Bow%20(Alt)/Bow.gif"/> |
+| <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BRanger-Custom%5D%20%5BF%5D%20Bernadetta%20by%20Redbean/2.%20Lance/Lance.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BRanger-Custom%5D%20%5BF%5D%20Bernadetta%20by%20Redbean/5.%20Bow/Bow.gif"/> | <b>Bow (Alt 2)</b><br/><img alt="Bow (Alt 2)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BRanger-Custom%5D%20%5BF%5D%20Bernadetta%20by%20Redbean/5.%20Bow%20(Alt%202)/Bow.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BRanger-Custom%5D%20%5BF%5D%20Bernadetta%20by%20Redbean/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Bow (Alt)</b><br/><img alt="Bow (Alt)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BRanger-Custom%5D%20%5BF%5D%20Bernadetta%20by%20Redbean/5.%20Bow%20(Alt)/Bow.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Cavs,%20Paladins,%20Rangers/%5BRanger-Custom%5D%20%5BF%5D%20Bernadetta%20by%20Redbean/8.%20Unarmed/Unarmed.gif"/> |
 
 
 

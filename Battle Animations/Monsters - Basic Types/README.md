@@ -52,6 +52,14 @@
 
 
 
+## [\[Centaur-Variant\] \[F\] CentaurQueen by Gibgib](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Variant%5D%20%5BF%5D%20CentaurQueen%20by%20Gibgib) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Variant%5D%20%5BF%5D%20CentaurQueen%20by%20Gibgib) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Variant%5D%20%5BF%5D%20CentaurQueen%20by%20Gibgib/1.%20Sword/Sword.gif"/> |
+| :---: |
+
+
+
+
 ## [\[Centaur-Variant\] \[F\] CentaurZerker by Alexsplode](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Variant%5D%20%5BF%5D%20CentaurZerker%20by%20Alexsplode) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Variant%5D%20%5BF%5D%20CentaurZerker%20by%20Alexsplode) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Variant%5D%20%5BF%5D%20CentaurZerker%20by%20Alexsplode/3.%20Axe/Axe.gif"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Variant%5D%20%5BF%5D%20CentaurZerker%20by%20Alexsplode/4.%20Handaxe/Handaxe.gif"/> | <b>Bow</b><br/><img alt="Bow" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCentaur-Variant%5D%20%5BF%5D%20CentaurZerker%20by%20Alexsplode/5.%20Bow/Bow.gif"/> |
@@ -285,6 +293,14 @@
 ## [\[Skeleton-Custom\] \[U\] Specter by Alexsplode](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Custom%5D%20%5BU%5D%20Specter%20by%20Alexsplode) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Custom%5D%20%5BU%5D%20Specter%20by%20Alexsplode) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Custom%5D%20%5BU%5D%20Specter%20by%20Alexsplode/1.%20Sword/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Custom%5D%20%5BU%5D%20Specter%20by%20Alexsplode/6.%20Magic/Magic.gif"/> |
+| :---: | :---: |
+
+
+
+
+## [\[Skeleton-Custom\] \[U\] Stalfos by Uncle Mikey](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Custom%5D%20%5BU%5D%20Stalfos%20by%20Uncle%20Mikey) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Custom%5D%20%5BU%5D%20Stalfos%20by%20Uncle%20Mikey) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Custom%5D%20%5BU%5D%20Stalfos%20by%20Uncle%20Mikey/1.%20Sword/Sword.gif"/> | <b>Lance</b><br/><img alt="Lance" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Custom%5D%20%5BU%5D%20Stalfos%20by%20Uncle%20Mikey/2.%20Lance/Lance.gif"/> |
 | :---: | :---: |
 
 

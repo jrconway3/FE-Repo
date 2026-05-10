@@ -652,6 +652,46 @@
 
 
 
+## [\[T2 Bishop-Reskin\] Improved Bishop Long Hair \[F\] by Levin](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20Bishop%20Long%20Hair%20%5BF%5D%20by%20Levin) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20Bishop%20Long%20Hair%20%5BF%5D%20by%20Levin) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20Bishop%20Long%20Hair%20%5BF%5D%20by%20Levin/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20Bishop%20Long%20Hair%20%5BF%5D%20by%20Levin/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20Bishop%20Long%20Hair%20%5BF%5D%20by%20Levin/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[T2 Bishop-Reskin\] Improved Bishop Short Hair \[F\] by Levin](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20Bishop%20Short%20Hair%20%5BF%5D%20by%20Levin) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20Bishop%20Short%20Hair%20%5BF%5D%20by%20Levin) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20Bishop%20Short%20Hair%20%5BF%5D%20by%20Levin/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20Bishop%20Short%20Hair%20%5BF%5D%20by%20Levin/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20Bishop%20Short%20Hair%20%5BF%5D%20by%20Levin/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[T2 Bishop-Reskin\] Improved Bishop with Hat \[F\] by Levin](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20Bishop%20with%20Hat%20%5BF%5D%20by%20Levin) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20Bishop%20with%20Hat%20%5BF%5D%20by%20Levin) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20Bishop%20with%20Hat%20%5BF%5D%20by%20Levin/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20Bishop%20with%20Hat%20%5BF%5D%20by%20Levin/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20Bishop%20with%20Hat%20%5BF%5D%20by%20Levin/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[T2 Bishop-Reskin\] Improved FE6 Style Bishop with FE7 Script \[M\] by Levin](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20FE6%20Style%20Bishop%20with%20FE7%20Script%20%5BM%5D%20by%20Levin) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20FE6%20Style%20Bishop%20with%20FE7%20Script%20%5BM%5D%20by%20Levin) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20FE6%20Style%20Bishop%20with%20FE7%20Script%20%5BM%5D%20by%20Levin/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20FE6%20Style%20Bishop%20with%20FE7%20Script%20%5BM%5D%20by%20Levin/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20FE6%20Style%20Bishop%20with%20FE7%20Script%20%5BM%5D%20by%20Levin/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[T2 Bishop-Reskin\] Improved FE7 Style Bishop \[M\] by Levin](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20FE7%20Style%20Bishop%20%5BM%5D%20by%20Levin) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20FE7%20Style%20Bishop%20%5BM%5D%20by%20Levin) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20FE7%20Style%20Bishop%20%5BM%5D%20by%20Levin/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20FE7%20Style%20Bishop%20%5BM%5D%20by%20Levin/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Improved%20FE7%20Style%20Bishop%20%5BM%5D%20by%20Levin/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ## [\[T2 Bishop-Reskin\] Joshua Hat \[M\] by ltranc](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Joshua%20Hat%20%5BM%5D%20by%20ltranc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Joshua%20Hat%20%5BM%5D%20by%20ltranc) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Joshua%20Hat%20%5BM%5D%20by%20ltranc/6.%20Magic/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Joshua%20Hat%20%5BM%5D%20by%20ltranc/8.%20Unarmed/Unarmed.gif"/> |
@@ -760,6 +800,14 @@
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Variant%5D%20Alternarive%20Bishop%20%5BM%5D%20by%20T%C3%ADxamas/6.%20Magic/Magic.gif"/> |
 | :---: |
+
+
+
+
+## [\[T2 Bishop-Variant\] Holy Priestess Reskin \[F\] by UltraFenix](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Variant%5D%20Holy%20Priestess%20Reskin%20%5BF%5D%20by%20UltraFenix) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Variant%5D%20Holy%20Priestess%20Reskin%20%5BF%5D%20by%20UltraFenix) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.gg/C7VNGnyTPA)
+
+| <b>Magic (Staff)</b><br/><img alt="Magic (Staff)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Variant%5D%20Holy%20Priestess%20Reskin%20%5BF%5D%20by%20UltraFenix/6.%20Magic%20(Staff)/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Variant%5D%20Holy%20Priestess%20Reskin%20%5BF%5D%20by%20UltraFenix/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 

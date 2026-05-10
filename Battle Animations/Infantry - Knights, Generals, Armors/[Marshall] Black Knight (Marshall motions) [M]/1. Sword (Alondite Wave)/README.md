@@ -15,3 +15,5 @@ Animation by Nuramon.
 Alondite Wave by Sax Marine.
 
 Black Knight edit by Seliost1.
+
+Magic (v2) by Seliost1. (The right hand is altered.)
