@@ -15,5 +15,7 @@ Sword (Generic Sword) by Seliost1.
 
 Updated sprite and anim by Ranko.
 
+Credit to Mishmaesh for a normal attack that was build upon.
+
 Piercing frames and position fix by Seliost1.
 
